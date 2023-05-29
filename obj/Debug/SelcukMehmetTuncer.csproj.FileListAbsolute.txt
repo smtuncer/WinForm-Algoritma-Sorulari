@@ -1,0 +1,20 @@
+C:\Users\smtun\Desktop\SELÇUK\YAZILIM & BİLGİSAYAR\PROJELER\SelcukMehmetTuncer\bin\Debug\SelcukMehmetTuncer.exe.config
+C:\Users\smtun\Desktop\SELÇUK\YAZILIM & BİLGİSAYAR\PROJELER\SelcukMehmetTuncer\bin\Debug\SelcukMehmetTuncer.exe
+C:\Users\smtun\Desktop\SELÇUK\YAZILIM & BİLGİSAYAR\PROJELER\SelcukMehmetTuncer\bin\Debug\SelcukMehmetTuncer.pdb
+C:\Users\smtun\Desktop\SELÇUK\YAZILIM & BİLGİSAYAR\PROJELER\SelcukMehmetTuncer\obj\Debug\SelcukMehmetTuncer.csproj.AssemblyReference.cache
+C:\Users\smtun\Desktop\SELÇUK\YAZILIM & BİLGİSAYAR\PROJELER\SelcukMehmetTuncer\obj\Debug\SelcukMehmetTuncer.Form1.resources
+C:\Users\smtun\Desktop\SELÇUK\YAZILIM & BİLGİSAYAR\PROJELER\SelcukMehmetTuncer\obj\Debug\SelcukMehmetTuncer.Properties.Resources.resources
+C:\Users\smtun\Desktop\SELÇUK\YAZILIM & BİLGİSAYAR\PROJELER\SelcukMehmetTuncer\obj\Debug\SelcukMehmetTuncer.csproj.GenerateResource.cache
+C:\Users\smtun\Desktop\SELÇUK\YAZILIM & BİLGİSAYAR\PROJELER\SelcukMehmetTuncer\obj\Debug\SelcukMehmetTuncer.csproj.CoreCompileInputs.cache
+C:\Users\smtun\Desktop\SELÇUK\YAZILIM & BİLGİSAYAR\PROJELER\SelcukMehmetTuncer\obj\Debug\SelcukMehmetTuncer.exe
+C:\Users\smtun\Desktop\SELÇUK\YAZILIM & BİLGİSAYAR\PROJELER\SelcukMehmetTuncer\obj\Debug\SelcukMehmetTuncer.pdb
+C:\Users\smtun\Desktop\SelcukMehmetTuncer\bin\Debug\SelcukMehmetTuncer.exe.config
+C:\Users\smtun\Desktop\SelcukMehmetTuncer\bin\Debug\SelcukMehmetTuncer.exe
+C:\Users\smtun\Desktop\SelcukMehmetTuncer\bin\Debug\SelcukMehmetTuncer.pdb
+C:\Users\smtun\Desktop\SelcukMehmetTuncer\obj\Debug\SelcukMehmetTuncer.csproj.AssemblyReference.cache
+C:\Users\smtun\Desktop\SelcukMehmetTuncer\obj\Debug\SelcukMehmetTuncer.Form1.resources
+C:\Users\smtun\Desktop\SelcukMehmetTuncer\obj\Debug\SelcukMehmetTuncer.Properties.Resources.resources
+C:\Users\smtun\Desktop\SelcukMehmetTuncer\obj\Debug\SelcukMehmetTuncer.csproj.GenerateResource.cache
+C:\Users\smtun\Desktop\SelcukMehmetTuncer\obj\Debug\SelcukMehmetTuncer.csproj.CoreCompileInputs.cache
+C:\Users\smtun\Desktop\SelcukMehmetTuncer\obj\Debug\SelcukMehmetTuncer.exe
+C:\Users\smtun\Desktop\SelcukMehmetTuncer\obj\Debug\SelcukMehmetTuncer.pdb
