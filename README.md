@@ -2,8 +2,7 @@
 
 1)İlk İki Textboxların Toplamıyla 3. Textboxın Çarpım Sonucu
 
-2)1'den 200 e kadar olan sayılar 3'ün katları zig, 5'in katları zag, 
-her ikisinin ortak katları zigzag olarak ekrana yazdırılacak
+2)1'den 200 e kadar olan sayılar 3'ün katları zig, 5'in katları zag, her ikisinin ortak katları zigzag olarak ekrana yazdırılacak
 
 3) 1’den 15’e kadar yazılan tam sayıya kadar çarpım tablosu gösterimi
 
